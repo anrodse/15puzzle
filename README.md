@@ -1,2 +1,5 @@
 # 15puzzle
-Juego 15 puzzle usando pygame
+Juego 15 puzzle en python.
+Requiere:
+-  pygame
+-  MySQLdb
